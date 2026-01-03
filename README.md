@@ -6,5 +6,9 @@ This project involves building and querying an employee database to analyze HR t
 Here are a few pictures of the tables I have created:
 
 ![Average salary of each department](Avg_Salary_per_department.png)
+
+
 ![Date of Promotions](Promotion_based_on_date.png)
+
+
 ![How long employees have been with the company](Tenure_of_employees.png)
